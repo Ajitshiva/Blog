@@ -1,0 +1,4 @@
++++
+archetype = "tutorials"
+title = "Algorithms"
++++
